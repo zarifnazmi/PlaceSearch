@@ -12,7 +12,7 @@ A simple React Native + TypeScript integrated Google Place Autocomplete to find 
 
 ## Screenshots
 
-![](./readme-pics/ss1.PNG) ![](./readme-pics/ss2.PNG) ![](./readme-pics/ss3.PNG)
+<img src="./readme-pics/ss1.PNG" width="300"> <img src="./readme-pics/ss2.PNG" width="300"> <img src="./readme-pics/ss3.PNG" width="300">
 
 ## Run the app
 
